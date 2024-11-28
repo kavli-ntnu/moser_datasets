@@ -25,7 +25,7 @@ Overview of published dataset by the moser group
 *Matlab files figure support, Axona, 6MB, Torkel Hafting*
 
 # DANDI Archive
-11. https://doi.org/10.48324/dandi.000230/0.220506.1516 
+11. https://doi.org/10.48324/dandi.000230/0.220506.1516  
 *NWB format, Axona, 245MB, Ragnhild Jacobsen*
 
 # Zenodo
