@@ -39,3 +39,47 @@ Overview of published dataset by the moser group
 # figshare
 14. https://doi.org/10.6084/m9.figshare.16764508.v6  
 *NPZ (numpy compressed) spike data figure support?, 300MB, Richard Gardner*
+
+
+---
+# 2024
+
+> **Investigating Egocentric Tuning in Hippocampal CA1 Neurons**  
+> Jordan Carpenter, Jan Sigurd Blackstad, David Tingley, Valentin A. Normand, Edvard I. Moser, May-Britt Moser, Benjamin A. Dunn  
+> Journal of Neuroscience 18 September 2024, 44 (38) e0040242024; DOI: https://doi.org/10.1523/JNEUROSCI.0040-24.2024  
+>
+> **Electrophysiological recordings of hippocampal CA1 units in rats during open field foraging**  
+> Jan Sigurd Blackstad, Edvard Moser, May-Britt Moser  
+> eBrains, https://doi.org/10.25493/36PM-H72
+
+
+> **Minute-scale oscillatory sequences in medial entorhinal cortex**  
+> Soledad Gonzalo Cogno, Horst A. Obenhaus, Ane Lautrup, Ragnhild Irene Jacobsen, Claudia Clopath, Sebastian O. Andersson, Flavio Donato, May-Britt Moser, Edvard Moser  
+> Nature 625, 338–344 (2024). https://doi.org/10.1038/s41586-023-06864-1
+>
+> **MEC neural activity recorded with calcium imaging and Neuropixels probes in sensory minimized conditions**  
+> Soledad Gonzalo Cogno, Horst A. Obenhaus, Ane Lautrup, Ragnhild Irene Jacobsen, Sebastian O. Andersson, Flavio Donato, May-Britt Moser, Edvard Moser  
+> eBrains, https://doi.org/10.25493/SKKX-4W3
+
+
+# 2023
+
+> **Grid cells in rats deprived of geometric experience during development**  
+> Ingvild Ulsaker-Janke, Torgeir Waaga, Tanja Waaga, Edvard Moser, May-Britt Moser  
+> Proceedings of the National Academy of Sciences, 10 October 2023, 120 (41) DOI: https://doi.org/10.1073/pnas.2310820120  
+>
+> **Grid cells in rats deprived of geometric experience during development**  
+> Ingvild Ulsaker-Janke, Torgeir Waaga, Tanja Waaga, Edvard Moser, May-Britt Moser  
+> eBrains, https://doi.org/10.25493/KXEN-EAF
+
+
+
+# 2014
+
+> **Place cells in the hippocampus: Eleven maps for eleven rooms**
+> Charlotte B. Alme, Chenglin Miao, Karel Jezek, Alessandro Treves, Edvard Moser, May-Britt Moser  
+> Proceedings of the National Academy of Sciences, 30 December 2014, 111 (52) DOI: https://doi.org/10.1073/pnas.1421056111  
+>
+> **Eleven maps for eleven rooms**  
+> Charlotte Alme, CHenglin Miao, Karel Jezek, Alessandro Treves, Edvard Moser, May-Britt Moser
+> NIRD Archive, https://doi.org/10.11582/2023.00131
