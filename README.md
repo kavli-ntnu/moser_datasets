@@ -81,5 +81,5 @@ Overview of published dataset by the moser group
 > Proceedings of the National Academy of Sciences, 30 December 2014, 111 (52) DOI: https://doi.org/10.1073/pnas.1421056111  
 >
 > **Eleven maps for eleven rooms**  
-> Charlotte Alme, CHenglin Miao, Karel Jezek, Alessandro Treves, Edvard Moser, May-Britt Moser
+> Charlotte Alme, Chenglin Miao, Karel Jezek, Alessandro Treves, Edvard Moser, May-Britt Moser  
 > NIRD Archive, https://doi.org/10.11582/2023.00131
