@@ -10,16 +10,20 @@ Overview of published dataset by the moser group. This list is non-exhaustive an
 > DATA: eBrains: https://doi.org/10.25493/R5FR-EDG  
 > PAPER: Nature: https://doi.org/10.1038/s41586-024-08527-1
 
+> **Minute-scale oscillatory sequences in medial entorhinal cortex**  
+> Soledad Gonzalo Cogno, Horst A. Obenhaus, Ane Lautrup, Ragnhild Irene Jacobsen, Claudia Clopath, Sebastian O. Andersson, Flavio Donato, May-Britt Moser, Edvard Moser  
+> DATA: eBrains, https://doi.org/10.25493/SKKX-4W3  
+> PAPER: Nature: https://doi.org/10.1038/s41586-023-06864-1  
+
 > **Investigating Egocentric Tuning in Hippocampal CA1 Neurons**  
 > Jan Sigurd Blackstad, Edvard Moser, May-Britt Moser  
 > DATA: eBrains: https://doi.org/10.25493/36PM-H72  
 > PAPER: JNeuosci: https://doi.org/10.1523/JNEUROSCI.0040-24.2024  
 
-
-> **Minute-scale oscillatory sequences in medial entorhinal cortex**  
-> Soledad Gonzalo Cogno, Horst A. Obenhaus, Ane Lautrup, Ragnhild Irene Jacobsen, Claudia Clopath, Sebastian O. Andersson, Flavio Donato, May-Britt Moser, Edvard Moser  
-> DATA: eBrains, https://doi.org/10.25493/SKKX-4W3  
-> PAPER: Nature: https://doi.org/10.1038/s41586-023-06864-1  
+> **Remapping of place cells in the CA1 area of the hippocampus**  
+> Torstein Slettmoen, Nienke de Jong, Hanne Eneqvist, May-Britt Moser, Edvard Moser  
+> DATA: eBrains: https://doi.org/10.25493/TRTW-NK8  
+> PAPER: JNeurosci: https://doi.org/10.1523/JNEUROSCI.5492-03.2004  
 
 
 ## 2023
@@ -29,6 +33,7 @@ Overview of published dataset by the moser group. This list is non-exhaustive an
 > Ingvild Ulsaker-Janke, Torgeir Waaga, Tanja Waaga, Edvard Moser, May-Britt Moser  
 > DATA: eBrains, https://doi.org/10.25493/KXEN-EAF  
 > PAPER: PNAS: https://doi.org/10.1073/pnas.2310820120  
+
 
 ## 2022
 ---
@@ -84,7 +89,6 @@ Overview of published dataset by the moser group. This list is non-exhaustive an
 > PAPER: Nature Neuroscience: https://doi.org/10.1038/s41593-017-0036-6  
 
 
-
 ## 2014
 ---
 
@@ -120,6 +124,7 @@ Overview of published dataset by the moser group. This list is non-exhaustive an
 > Vegard Brun, Trygve Solstad, Kirsten Kjelstrup, Marianne Fyhn, Menno Witter, Edvard Moser, May-Britt Moser  
 > DATA: NORSTORE: dx.doi.org/10.11582/2018.00015  
 > PAPER: Hippocampus: https://doi.org/10.1002/hipo.20504  
+
 
 ## 2005
 ---
