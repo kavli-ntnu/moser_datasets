@@ -2,8 +2,17 @@
 Overview of published dataset by the moser group. This list is non-exhaustive and focuses on our published datasets and not our research paper publications. 
 
 ---
-## 2024
+## 2025
+
+
+> **Event structure sculpts neural population dynamics in the lateral entorhinal cortex**  
+> Benjamin Kanter, Christine Lykken, Ignacio Polti, May-Britt Moser and Edvard Moser  
+> DATA: eBrains: https://doi.org/10.25493/GTVB-FQR  
+> PAPER: Science: https://doi.org/10.1126/science.adr0927  
+
+
 ---
+## 2024
 
 > **Left-right-alternating theta sweeps in the entorhinal-hippocampal spatial map**  
 > Abraham Vollan, Richard Gardner, May-Britt Moser, Edvard Moser  
@@ -26,8 +35,9 @@ Overview of published dataset by the moser group. This list is non-exhaustive an
 > PAPER: JNeurosci: https://doi.org/10.1523/JNEUROSCI.5492-03.2004  
 
 
-## 2023
 ---
+## 2023
+
 
 > **Grid cells in rats deprived of geometric experience during development**  
 > Ingvild Ulsaker-Janke, Torgeir Waaga, Tanja Waaga, Edvard Moser, May-Britt Moser  
@@ -35,8 +45,8 @@ Overview of published dataset by the moser group. This list is non-exhaustive an
 > PAPER: PNAS: https://doi.org/10.1073/pnas.2310820120  
 
 
-## 2022
 ---
+## 2022
 
 > **Toroidal topology of population activity in grid cells**  
 > Richard J. Gardner, Erik Hermansen, Marius Pachitariu, Yoram Burak, Nils A. Baas, Benjamin A. Dunn, May-Britt Moser & Edvard I. Moser  
@@ -61,8 +71,8 @@ Overview of published dataset by the moser group. This list is non-exhaustive an
 > PAPER: PNAS: dx.doi.org/10.1073/pnas.2121655119  
 
 
-## 2021
 ---
+## 2021
 
 > **Frequency of theta rhythm is controlled by acceleration, but not speed, in running rats**  
 > Emilio Kropff, James E. Carmichael, Edvard I. Moser, May-Britt Moser  
@@ -70,8 +80,8 @@ Overview of published dataset by the moser group. This list is non-exhaustive an
 > PAPER: Neuron: https://doi.org/10.1016/j.neuron.2021.01.017  
 
 
-## 2018
 ---
+## 2018
 
 > **Entorhinal fast-spiking speed cells project to the hippocampus**  
 > Jing Ye, Menno P. Witter, May-Britt Moser, and Edvard I. Moser 
@@ -89,8 +99,8 @@ Overview of published dataset by the moser group. This list is non-exhaustive an
 > PAPER: Nature Neuroscience: https://doi.org/10.1038/s41593-017-0036-6  
 
 
-## 2014
 ---
+## 2014
 
 > **Eleven maps for eleven rooms**  
 > Charlotte Alme, Chenglin Miao, Karel Jezek, Alessandro Treves, Edvard Moser, May-Britt Moser  
@@ -98,8 +108,8 @@ Overview of published dataset by the moser group. This list is non-exhaustive an
 > PAPER: PNAS: https://doi.org/10.1073/pnas.1421056111  
 
 
-## 2012
 ---
+## 2012
 
 > **The entorhinal grid map is discretised**  
 > Hanne Stonsola, Tor Stensola, Trygve Solstad, Kristian Frøland, May-Britt Moser, Edvard Moser  
@@ -107,8 +117,8 @@ Overview of published dataset by the moser group. This list is non-exhaustive an
 > PAPER: Nature: dx.doi.org/10.1038/nature11649  
 
 
-## 2008
 ---
+## 2008
 
 > **Conjunctive Representation of Position, Direction, and Velocity in Entorhinal Cortex**  
 > Francesca Sargolini, Marianne Fyhn, Torkel Hafting, Bruce L. McNaughton, Menno P. Witter, May-Britt Moser, and Edvard I. Moser  
@@ -126,8 +136,8 @@ Overview of published dataset by the moser group. This list is non-exhaustive an
 > PAPER: Hippocampus: https://doi.org/10.1002/hipo.20504  
 
 
-## 2005
 ---
+## 2005
 
 > **Microstructure of a spatial map in the entorhinal cortex**  
 > Torkel Hafting, Marianne Fyhn, Sturla Molden, May-Britt Moser & Edvard I. Moser  
