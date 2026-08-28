@@ -51,7 +51,7 @@ Overview of published dataset by the moser group. This list is non-exhaustive an
 > **Toroidal topology of population activity in grid cells**  
 > Richard J. Gardner, Erik Hermansen, Marius Pachitariu, Yoram Burak, Nils A. Baas, Benjamin A. Dunn, May-Britt Moser & Edvard I. Moser  
 > DATA: Figshare: https://doi.org/10.6084/m9.figshare.16764508.v6  
-> CODE: Github: https://github.com/erikher/GridCellTorus
+> CODE: Github: https://github.com/erikher/GridCellTorus  
 > PAPER: Nature: https://doi.org/10.1038/s41586-021-04268-7
 
 > **All-viral tracing of monosynaptic inputs to single birthdate-defined neurons in the intact brain**  
@@ -61,14 +61,14 @@ Overview of published dataset by the moser group. This list is non-exhaustive an
 
 > **Large-scale two-photon calcium imaging in freely moving mice**  
 > Weijian Zong, Horst Obenhaus, Emilie Skytøen, Hanna Eneqvist, Nienke de Jong, Marina Jorge, May-Britt Moser, Edvard Moser  
-> DATA: NORSTORE: dx.doi.org/10.11582/2022.00008  
-> PAPER: Cell: dx.doi.org/10.1016/j.cell.2022.02.017  
+> DATA: NORSTORE: https://doi.org/10.11582/2022.00008  
+> PAPER: Cell: https://doi.org/10.1016/j.cell.2022.02.017  
 
 > **Functional network topography of the medial entorhinal cortex**  
 > Horst Obenhaus, Weijian Zong, Ragnhild Jacobsen, Tobias Rose, Flavio Donato, Liangyi Chen, Heping Cheng, Tobias Bonhoeffer, May-Britt Moser, Edvard Moser  
-> DATA: NORSTORE Archive: dx.doi.org/10.11582/2022.00005  
+> DATA: NORSTORE Archive: https://doi.org/10.11582/2022.00005  
 > CODE: Github, https://doi.org/10.5281/zenodo.5910807  
-> PAPER: PNAS: dx.doi.org/10.1073/pnas.2121655119  
+> PAPER: PNAS: https://doi.org/10.1073/pnas.2121655119  
 
 
 ---
@@ -84,18 +84,18 @@ Overview of published dataset by the moser group. This list is non-exhaustive an
 ## 2018
 
 > **Entorhinal fast-spiking speed cells project to the hippocampus**  
-> Jing Ye, Menno P. Witter, May-Britt Moser, and Edvard I. Moser 
-> DATA: NORSTORE: dx.doi.org/10.11582/2018.00004  
+> Jing Ye, Menno P. Witter, May-Britt Moser, and Edvard I. Moser  
+> DATA: NORSTORE: https://doi.org/10.11582/2018.00004  
 > PAPER: PNAS: https://doi.org/10.1073/pnas.1720855115  
 
 > **Path integration in place cells of developing rats** 
 > Tale L. Bjerknes, Nenitha C. Dagslott, Edvard I. Moser, and May-Britt Moser  
-> DATA: NORSTORE: dx.doi.org/10.11582/2018.00003  
+> DATA: NORSTORE: https://doi.org/10.11582/2018.00003  
 > PAPER: PNAS: https://doi.org/10.1073/pnas.1719054115  
 
 > **Integration of grid maps in merged environments**  
 > Tanja Wernle, Torgeir Waaga, Maria Mørreaunet, Alessandro Treves, May-Britt Moser & Edvard I. Moser  
-> DATA: NORSTORE: dx.doi.org/10.11582/2017.00023  
+> DATA: NORSTORE: https://doi.org/10.11582/2017.00023  
 > PAPER: Nature Neuroscience: https://doi.org/10.1038/s41593-017-0036-6  
 
 
@@ -113,8 +113,8 @@ Overview of published dataset by the moser group. This list is non-exhaustive an
 
 > **The entorhinal grid map is discretised**  
 > Hanne Stonsola, Tor Stensola, Trygve Solstad, Kristian Frøland, May-Britt Moser, Edvard Moser  
-> DATA: NORSTORE: dx.doi.org/10.11582/2018.00027  
-> PAPER: Nature: dx.doi.org/10.1038/nature11649  
+> DATA: NORSTORE: https://doi.org/10.11582/2018.00027  
+> PAPER: Nature: https://doi.org/10.1038/nature11649  
 
 
 ---
@@ -122,17 +122,17 @@ Overview of published dataset by the moser group. This list is non-exhaustive an
 
 > **Conjunctive Representation of Position, Direction, and Velocity in Entorhinal Cortex**  
 > Francesca Sargolini, Marianne Fyhn, Torkel Hafting, Bruce L. McNaughton, Menno P. Witter, May-Britt Moser, and Edvard I. Moser  
-> DATA: NORSTORE: dx.doi.org/10.11582/2017.00019  
+> DATA: NORSTORE: https://doi.org/10.11582/2017.00019  
 > PAPER: Science: https://doi.org/10.1126/science.1125572  
 
 > **Hippocampus-independent phase precession in entorhinal grid cells**  
 > Torkel Hafting, Marianne Fyhn, Tora Bonnevie, May-Britt Moser & Edvard I. Moser  
-> DATA: NORSTORE: dx.doi.org/10.11582/2017.00020  
+> DATA: NORSTORE: https://doi.org/10.11582/2017.00020  
 > PAPER: Nature: https://doi.org/10.1038/nature06957  
 
 > **Progressive increase in grid scale from dorsal to ventral medial entorhinal cortex**  
 > Vegard Brun, Trygve Solstad, Kirsten Kjelstrup, Marianne Fyhn, Menno Witter, Edvard Moser, May-Britt Moser  
-> DATA: NORSTORE: dx.doi.org/10.11582/2018.00015  
+> DATA: NORSTORE: https://doi.org/10.11582/2018.00015  
 > PAPER: Hippocampus: https://doi.org/10.1002/hipo.20504  
 
 
